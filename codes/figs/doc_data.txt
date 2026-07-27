@@ -1,0 +1,43 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: TeX
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20260728073414+09&apos;00&apos;
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20260728073414+09&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: pdfTeX-1.40.22
+InfoBegin
+InfoKey: PTEX.Fullbanner
+InfoValue: This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) kpathsea version 6.3.4/dev
+PdfID0: b41347e6d3940247ec55bc0bb9478164
+PdfID1: b41347e6d3940247ec55bc0bb9478164
+NumberOfPages: 5
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 129 103
+PageMediaDimensions: 129 103
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 300 199
+PageMediaDimensions: 300 199
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 121 122
+PageMediaDimensions: 121 122
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 121 122
+PageMediaDimensions: 121 122
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 158 109
+PageMediaDimensions: 158 109
